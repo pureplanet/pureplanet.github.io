@@ -26,7 +26,7 @@
 
 <p class="c1"><span class="c2"></span></p><p class="c3"><span>The Joint Administrators may act as controllers of personal data as defined by UK data protection law depending upon the specific processing activities undertaken. PricewaterhouseCoopers LLP may act as a processor on the instructions of the Joint Administrators. Personal data will be kept secure and processed only for matters relating to the Joint Administrators&rsquo; appointment. Further details are available in the privacy statement on the </span><span class="c4"><a class="c6" href="https://www.pwc.co.uk/">PwC.co.uk</a></span><span class="c2">&nbsp;website or by contacting the Joint Administrators.</span></p>
 
-<h3 class="c1"><span class="c2"></span></p><p class="c3"><span class="c8">Pure Planet Limited</span></h3>
+<h3 class="c3"><span class="c8">Pure Planet Limited</span></h3>
 
 <p class="c1"><span class="c2"></span></p><p class="c3"><span class="c2">Edward Williams, Mark James Tobias Banfield and Ross David Connock have been appointed as joint administrators of Pure Planet Limited to manage their affairs, business and property as its agents and act without personal liability. All are licensed in the United Kingdom to act as insolvency practitioners by the Institute of Chartered Accountants in England and Wales.</span></p>
 
