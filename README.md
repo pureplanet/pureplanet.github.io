@@ -9,9 +9,9 @@
 
 <p class="c3"><span class="c2">Shell Energy began supplying all our former Members on 17 October 2021. Your energy account has been transferred to them, along with any credit balance you may have, under Ofgem&rsquo;s Supplier of Last Resort rules.</span></p>
 
-<p class="c1"><span class="c2"></span></p><p class="c3"><span>We&rsquo;re no longer able to answer any queries you may have, and our Community, social media, email and chat channels are now closed. If you have any questions about your account please </span><span class="c4"><a class="c6" href="https://help.shellenergy.co.uk/hc/en-us">get in touch with Shell Energy</a></span>
-    
-<span class="c2">.</span></p><h2 class="c0" id="h.5znerzetfhem"><span class="c5">I owe Pure Planet money for energy used while on supply with you &mdash; do I still need to pay this?</span></h2>
+<p class="c1"><span class="c2"></span></p><p class="c3"><span>We&rsquo;re no longer able to answer any queries you may have, and our Community, social media, email and chat channels are now closed. If you have any questions about your account please </span><span class="c4"><a class="c6" href="https://help.shellenergy.co.uk/hc/en-us">get in touch with Shell Energy</a></span><span class="c2">.</span></p>
+
+<h2 class="c0" id="h.5znerzetfhem"><span class="c5">I owe Pure Planet money for energy used while on supply with you &mdash; do I still need to pay this?</span></h2>
 
 <p class="c3"><span class="c2">Yes, if you have a debit balance with Pure Planet, this still needs to be paid. If you don&rsquo;t pay what you owe, your account may be transferred to a Debt Collection Agency. </span></p>
 
