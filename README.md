@@ -1,4 +1,5 @@
-![](https://github.com/pureplanet/pureplanet.github.io/blob/main/Banner.png)
+![](https://github.com/pureplanet/pureplanet.github.io/raw/main/Banner.png)
+
 <h1 class="c9" id="h.idbnnuezx79"><span>Pure Planet has ceased trading</span></h1>
 
 <p class="c3"><span class="c2">Due to the global energy crisis, record high wholesale energy costs, and the restrictions placed on us by the Ofgem Price Cap, we were unable to keep operating Pure Planet.</span></p>
